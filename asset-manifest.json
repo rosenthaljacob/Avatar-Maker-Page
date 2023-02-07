@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Avatar-Maker-Page/static/css/main.88b19e6b.css",
-    "main.js": "/Avatar-Maker-Page/static/js/main.4cab2d15.js",
+    "main.js": "/Avatar-Maker-Page/static/js/main.72932397.js",
     "index.html": "/Avatar-Maker-Page/index.html",
     "main.88b19e6b.css.map": "/Avatar-Maker-Page/static/css/main.88b19e6b.css.map",
-    "main.4cab2d15.js.map": "/Avatar-Maker-Page/static/js/main.4cab2d15.js.map"
+    "main.72932397.js.map": "/Avatar-Maker-Page/static/js/main.72932397.js.map"
   },
   "entrypoints": [
     "static/css/main.88b19e6b.css",
-    "static/js/main.4cab2d15.js"
+    "static/js/main.72932397.js"
   ]
 }
